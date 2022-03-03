@@ -1,3 +1,5 @@
+# Practice and space to try things
+
 z = x - mean / sd
 
 #Practice problems
